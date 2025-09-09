@@ -2,4 +2,8 @@
 
 # Your Name
 
+Sean Pletz
+
 # Your Github username
+
+smpletz
